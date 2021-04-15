@@ -5,7 +5,6 @@
 > It calculates and draw Fourier epicycles in the few ways. 
 
 ## Examplary images:
-<div>
 <p align="center">
 <img src="https://github.com/mateuszGorczany/Apka-Transformatka/blob/main/Obrazki/JosephFourier.png">
   <figcaption>Joseph Fourier (co-author)</figcaption>
@@ -15,7 +14,7 @@
 <img src="https://github.com/mateuszGorczany/Apka-Transformatka/blob/main/Obrazki/ksiaze.jpg">
   <figcaption>Little Prince</figcaption>
 </p>
-## App output:
+<h2>App output:</h2<
 
 <p align="center">
   <img src="https://github.com/mateuszGorczany/Apka-Transformatka/blob/main/examples/fourier_contours.gif">
@@ -29,7 +28,7 @@
   <img src="https://github.com/mateuszGorczany/Apka-Transformatka/blob/main/examples/fourier_spirally.gif">
   <figcaption>spirally</figcaption>
 </p>
-### Drawings made out of points:
+<h3>Drawings made out of points:<h3>
 <p align="center">
   <img src="https://github.com/mateuszGorczany/Apka-Transformatka/blob/main/examples/poland.gif">
 <!--   <figcaption>D</figcaption> -->
@@ -38,10 +37,12 @@
 <img src="https://github.com/mateuszGorczany/Apka-Transformatka/blob/main/examples/world_connected.gif">
   <figcaption>points connection</figcaption>
 </p>
-## App view
+
+<h2> App view </h2>
+
 <p align="center">
 <img src="https://github.com/mateuszGorczany/Apka-Transformatka/blob/main/Obrazki/app_view.png">
-  <figcaption>Optional title</figcaption>
+<!--   <figcaption>Optional title</figcaption> -->
 </p>
 
 *Made in collaboration with ![@Karol Szeliga][https://github.com/KarolSzeliga4]*
