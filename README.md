@@ -3,44 +3,44 @@
 > It calculates and draw Fourier epicycles in the few ways. 
 
 ## Examplary images:
-<p align="center">
+<div align="center">
 <img src="https://github.com/mateuszGorczany/Apka-Transformatka/blob/main/Obrazki/JosephFourier.png">
-  <figcaption>Joseph Fourier (co-author)</figcaption>
-</p>                                                                                                               
+  <div style="text-align=center">Joseph Fourier (co-author)</div>
+</div>                                                                                                               
 
-<p align="center">
+<div align="center">
 <img src="https://github.com/mateuszGorczany/Apka-Transformatka/blob/main/Obrazki/ksiaze.jpg">
-  <figcaption>Little Prince</figcaption>
-</p>
+  <div style="text-align=center">Little Prince</div>
+</div>
 <h2>App output:</h2>
 
-<p align="center">
+<div align="center">
   <img src="https://github.com/mateuszGorczany/Apka-Transformatka/blob/main/examples/fourier_contours.gif">
-    <figcaption>by contours</figcaption>
-</p>
-<p align="center">                                                                                                             
+    <div style="text-align=center">by contours</div>
+</div>
+<div align="center">                                                                                                             
 <img src="https://github.com/mateuszGorczany/Apka-Transformatka/blob/main/examples/little_prince_horizontally.gif">
-  <figcaption>horizontally</figcaption>
-</p>
-<p align="center">
+  <div>horizontally</div>
+</div>
+<div align="center">
   <img src="https://github.com/mateuszGorczany/Apka-Transformatka/blob/main/examples/fourier_spirally.gif">
-  <figcaption>spirally</figcaption>
-</p>
+  <div>spirally</div>
+</div>
 <h3>Drawings made out of points:</h3>
-<p align="center">
+<div align="center">
   <img src="https://github.com/mateuszGorczany/Apka-Transformatka/blob/main/examples/poland.gif">
-<!--   <figcaption>D</figcaption> -->
-</p>
-<p align="center">
+<!--   <div style="text-align=center">D</div> -->
+</div>
+<div align="center">
 <img src="https://github.com/mateuszGorczany/Apka-Transformatka/blob/main/examples/world_connected.gif">
-  <figcaption>points connection</figcaption>
-</p>
+  <div style="text-align=center">points connection</divn>
+</div>
 
 <h2> App view </h2>
 
-<p align="center">
+<div align="center">
 <img src="https://github.com/mateuszGorczany/Apka-Transformatka/blob/main/Obrazki/app_view.png">
-<!--   <figcaption>Optional title</figcaption> -->
-</p>
+<!--   <div style="text-align=center">Optional title</div> -->
+</div>
 
-*Made in collaboration with ![@Karol Szeliga][https://github.com/KarolSzeliga4]*
+*Made in collaboration with ![@Karol Szeliga][https://github.com/KarolSzeliga4]
