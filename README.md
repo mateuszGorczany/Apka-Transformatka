@@ -5,6 +5,7 @@
 > It calculates and draw Fourier epicycles in the few ways. 
 
 ## Examplary images:
+<div>
 <p align="center">
 <img src="https://github.com/mateuszGorczany/Apka-Transformatka/blob/main/Obrazki/JosephFourier.png">
   <figcaption>Joseph Fourier (co-author)</figcaption>
