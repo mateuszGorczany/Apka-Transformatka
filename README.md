@@ -39,8 +39,8 @@
 <h2> App view </h2>
 
 <div align="center">
-<img src="https://github.com/mateuszGorczany/Apka-Transformatka/blob/main/Obrazki/app_view.png">
+<img src="https://github.com/mateuszGorczany/Apka-Transformatka/blob/main/examples/app_view.png">
 <!--   <div style="text-align=center font-style: italic">Optional title</div> -->
 </div>
 
-*Made in collaboration with ![@Karol Szeliga][https://github.com/KarolSzeliga4]
+Made in collaboration with Karol Szeliga https://github.com/KarolSzeliga4
