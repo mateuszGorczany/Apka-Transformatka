@@ -1,5 +1,3 @@
-# Dziabadaj
-*Final project for the university course "Databases 1".*
 # Apka-Transformatka
 > Application made for the university course. 
 > It calculates and draw Fourier epicycles in the few ways. 
@@ -14,7 +12,7 @@
 <img src="https://github.com/mateuszGorczany/Apka-Transformatka/blob/main/Obrazki/ksiaze.jpg">
   <figcaption>Little Prince</figcaption>
 </p>
-<h2>App output:</h2<
+<h2>App output:</h2>
 
 <p align="center">
   <img src="https://github.com/mateuszGorczany/Apka-Transformatka/blob/main/examples/fourier_contours.gif">
@@ -28,7 +26,7 @@
   <img src="https://github.com/mateuszGorczany/Apka-Transformatka/blob/main/examples/fourier_spirally.gif">
   <figcaption>spirally</figcaption>
 </p>
-<h3>Drawings made out of points:<h3>
+<h3>Drawings made out of points:</h3>
 <p align="center">
   <img src="https://github.com/mateuszGorczany/Apka-Transformatka/blob/main/examples/poland.gif">
 <!--   <figcaption>D</figcaption> -->
