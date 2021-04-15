@@ -1,6 +1,7 @@
 # Apka-Transformatka
 > Application made for the university course. 
 > It calculates and draw Fourier epicycles in the few ways: by countours, vertically, spirally. It can convert data points aswell. 
+Fourier transform is implemented in a naive way, because it was a main challenge of this project. Feel free to use more effective algorithm.  
 
 ## Examplary images:
 <div align="center">
