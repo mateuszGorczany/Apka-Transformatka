@@ -20,7 +20,7 @@
 </div>
 <div align="center">                                                                                                             
 <img src="https://github.com/mateuszGorczany/Apka-Transformatka/blob/main/examples/little_prince_horizontally.gif">
-  <div style="text-align=center font-style: italic">vorizontally</div>
+  <div style="text-align=center font-style: italic">vertically</div>
 </div>
 <div align="center">
   <img src="https://github.com/mateuszGorczany/Apka-Transformatka/blob/main/examples/fourier_spirally.gif">
