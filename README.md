@@ -4,10 +4,10 @@
 
 ## Examplary images:
 <figure align="center">
-<img src="https://github.com/mateuszGorczany/Apka-Transformatka/blob/main/Obrazki/JosephFourier.png" title >
+<img src="https://github.com/mateuszGorczany/Apka-Transformatka/blob/main/Obrazki/JosephFourier.png">
   <figcaption>Joseph Fourier (co-author)</figcaption>
 </figure>                                                                                                               
-***Little prince***\
+
 <figure align="center">
 <img src="https://github.com/mateuszGorczany/Apka-Transformatka/blob/main/Obrazki/ksiaze.jpg">
   <figcaption>Little Prince</figcaption>
