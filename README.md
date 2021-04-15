@@ -40,7 +40,7 @@ Fourier transform is implemented in a naive way, because it was the main challen
 <h2> App view </h2>
 
 <div align="center">
-<img src="https://github.com/mateuszGorczany/Apka-Transformatka/blob/main/examples/app_view.png">
+<img src="https://github.com/mateuszGorczany/Apka-Transformatka/blob/main/examples/App_view.png">
 <!--   <div style="text-align=center font-style: italic">Optional title</div> -->
 </div>
 
