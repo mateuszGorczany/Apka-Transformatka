@@ -1,44 +1,46 @@
+# Dziabadaj
+*Final project for the university course "Databases 1".*
 # Apka-Transformatka
 > Application made for the university course. 
 > It calculates and draw Fourier epicycles in the few ways. 
 
 ## Examplary images:
-<figure align="center">
+<p align="center">
 <img src="https://github.com/mateuszGorczany/Apka-Transformatka/blob/main/Obrazki/JosephFourier.png">
   <figcaption>Joseph Fourier (co-author)</figcaption>
-</figure>                                                                                                               
+</p>                                                                                                               
 
-<figure align="center">
+<p align="center">
 <img src="https://github.com/mateuszGorczany/Apka-Transformatka/blob/main/Obrazki/ksiaze.jpg">
   <figcaption>Little Prince</figcaption>
-</figure>
+</p>
 ## App output:
 
-<figure align="center">
+<p align="center">
   <img src="https://github.com/mateuszGorczany/Apka-Transformatka/blob/main/examples/fourier_contours.gif">
     <figcaption>by contours</figcaption>
-</figure>
-<figure align="center">                                                                                                             
+</p>
+<p align="center">                                                                                                             
 <img src="https://github.com/mateuszGorczany/Apka-Transformatka/blob/main/examples/little_prince_horizontally.gif">
   <figcaption>horizontally</figcaption>
-</figure>
-<figure align="center">
+</p>
+<p align="center">
   <img src="https://github.com/mateuszGorczany/Apka-Transformatka/blob/main/examples/fourier_spirally.gif">
   <figcaption>spirally</figcaption>
-</figure>
+</p>
 ### Drawings made out of points:
-<figure align="center">
+<p align="center">
   <img src="https://github.com/mateuszGorczany/Apka-Transformatka/blob/main/examples/poland.gif">
 <!--   <figcaption>D</figcaption> -->
-</figure>
-<figure align="center">
+</p>
+<p align="center">
 <img src="https://github.com/mateuszGorczany/Apka-Transformatka/blob/main/examples/world_connected.gif">
   <figcaption>points connection</figcaption>
-</figure>
+</p>
 ## App view
-<figure align="center">
+<p align="center">
 <img src="https://github.com/mateuszGorczany/Apka-Transformatka/blob/main/Obrazki/app_view.png">
   <figcaption>Optional title</figcaption>
-</figure>
+</p>
 
 *Made in collaboration with ![@Karol Szeliga][https://github.com/KarolSzeliga4]*
