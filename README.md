@@ -17,13 +17,14 @@
 #### Spirally
 ![drawing](https://github.com/mateuszGorczany/Apka-Transformatka/blob/main/examples/fourier_spirally.gif)\
 
-### Drawings made out of points
+### Drawings made out of points:
 ![drawing](https://github.com/mateuszGorczany/Apka-Transformatka/blob/main/examples/poland.gif)\
-Points are connected:
+
+#### Points connection:
 ![drawing](https://github.com/mateuszGorczany/Apka-Transformatka/blob/main/examples/world_connected.gif)\
 
-## App view
-![drawing](https://github.com/mateuszGorczany/Apka-Transformatka/blob/main/Obrazki/app_view.png)
+## App view:
+![drawing](https://github.com/mateuszGorczany/Apka-Transformatka/blob/main/Obrazki/app_view.png)\
 
 
 *Made in collaboration with ![@Karol Szeliga][https://github.com/KarolSzeliga4]*
